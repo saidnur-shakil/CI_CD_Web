@@ -40,7 +40,7 @@ jobs:
         attachments: ./build/report/login.html
 
         from: Github Actions
-        to: saidnurshakil98@gmail.com
+        to: sdnrshakil@gmail.com
         content_type: text/html
           # Optional converting Markdown to HTML (set content_type to text/html too):
         convert_markdown: true
